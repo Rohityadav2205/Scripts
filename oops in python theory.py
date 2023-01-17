@@ -67,6 +67,8 @@ Constructor --- Adding the parts to the body. In Python its the __init__ functio
                      :or
 constructor-  a constructor is the special method that is called automatically whenever an
 object of a class is created. It is __init__ in python
+Destructor- destructor is a special number method that is called just before the memory of a class is
+released__del__in python
 
 toString --- Gives a string output of the current object.
 
